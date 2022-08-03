@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1659551193 source:c:\users\jaque\downloads\cadena\main.cpp
+	<iostream>
+	"Solution.h"
+
+1659551698 c:\users\jaque\downloads\cadena\include\solution.h
+	<string>
+	<iostream>
+
